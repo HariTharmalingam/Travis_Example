@@ -31,5 +31,8 @@
     "coveralls": "^3.0.9",
     "jest": "24.9.0",
     "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
   }
 }
